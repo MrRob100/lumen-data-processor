@@ -1,5 +1,5 @@
 {
-	"name": "RobA/lumen-data-processor",
+	"name": "MrRob100/lumen-data-processor",
 	"type": "library",
 	"description": "Processes spreadsheet data and outputs CSV for importing to a database"
 	"keywords": ["data", "ppricessing", "spreadsheet", "csv"],
