@@ -1,0 +1,12 @@
+{
+	"name": "RobA/lumen-data-processor",
+	"type": "library",
+	"description": "Processes spreadsheet data and outputs CSV for importing to a database"
+	"keywords": ["data", "ppricessing", "spreadsheet", "csv"],
+	"authors" [
+		{
+			"name": "Rob Arnold",
+			"role": "Developer"
+		}
+	],
+}
